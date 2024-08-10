@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "Resource Pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "strawberry": {
+      "textures": "textures/items/strawberry"
+    },
+    "ruby": {
+      "textures": "textures/items/ruby"
+    },
+    "copper_coin": {
+      "textures": "textures/items/copper_coin"
+    }
+  }
+}

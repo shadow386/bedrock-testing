@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom_component:copper_coin",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "copper_coin",
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_animation": "none",
+      "minecraft:custom_components": ["test_component:check_done_loading"]
+    }
+  }
+}
